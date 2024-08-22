@@ -1,8 +1,14 @@
 # 🚴 Cyclistic Bike-Share Analysis Project
 
-# Business Task:
+# Business Scenario
 
-I took on the challenge of analyzing Cyclistic's bike-share data from the past 12 months (April 1, 2020, to March 30, 2021) with a clear goal: to identify the differences in usage patterns between casual riders and annual members. Armed with these insights, I aimed to design a data-driven marketing strategy focused on converting casual riders into annual members. My approach was methodical, ensuring that every recommendation was backed by solid data and professional visualizations, ready for presentation to the Cyclistic executive team.
+Cyclistic, a bike-share program in Chicago, offers over 5,800 bicycles, including traditional bikes and assistive options like reclining bikes, hand tricycles, and cargo bikes. The program is popular for both leisure and commuting, with around 30% of users commuting to work. Cyclistic offers three pricing plans: single-ride passes, full-day passes, and annual memberships. Casual riders purchase single-ride or full-day passes, while annual members subscribe to yearly memberships.
+
+The director of marketing believes that increasing the number of annual memberships is crucial for the company’s future success. To develop a new marketing strategy to convert casual riders into annual members, it's essential to understand how these two groups use Cyclistic bikes differently.
+
+# Business Task
+
+The task involves analyzing data from the previous 12 months (April 1, 2020, to March 30, 2021) to identify differences in usage patterns between casual riders and annual members. Based on these insights, the goal is to design a marketing strategy to convert casual riders into annual members. The analysis and recommendations must be backed up with compelling data insights and professional data visualizations for presentation to the Cyclistic executive team.
 
 # ASK
 
