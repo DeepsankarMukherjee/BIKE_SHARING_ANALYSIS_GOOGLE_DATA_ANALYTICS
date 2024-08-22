@@ -41,11 +41,12 @@ Data Cleaning:
 
 I meticulously handled missing values, ensured consistency across all datasets, and standardized column names and data types to facilitate seamless analysis.
 
-# Data Transformation:
+Data Transformation:
 
 To capture user behavior patterns, I created new features, such as ride duration, day of the week, and time of day.
 
 # ANALYZE
+
 Exploratory Data Analysis (EDA):
 
 I compared the average ride duration between casual riders and annual members, analyzed the distribution of rides by day of the week and time of day, and identified the most popular stations and routes for each group. Additionally, I evaluated usage patterns, such as peak times and seasonal trends.
